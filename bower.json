@@ -1,0 +1,28 @@
+{
+  "name": "next-size2byte",
+  "version": "0.0.1",
+  "description": "Size to bytes",
+  "main": "dist/next-size2byte.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-size2byte",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
